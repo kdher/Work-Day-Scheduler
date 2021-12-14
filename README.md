@@ -15,7 +15,6 @@ Grey: Previous hours of the day no longer available Red: The current hour Green:
 
 Name: Eder Ramirez
 Email: Edher.fca@gmail.com
-Portafolio: 
 
 ## Acceptance Criteria
 
@@ -43,9 +42,4 @@ THEN the saved events persist
 # Screenshots
 1.- The photo below is what the Day.
 
-
-
-
-
-
-
+![This is a screenshot of the schedule section.](https://github.com/kdher/prueba/blob/main/Assets/images/schedule.png)
